@@ -1,0 +1,2697 @@
+{
+  "settings": {
+    "name": "Site-08-21_0115",
+    "currentPage": "page1.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#ecf0f1",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#27ae60",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Ubuntu",
+        "subtitleFont": "Ubuntu",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#047e37",
+        "#fd7a24",
+        "#fcf6f1",
+        "#faede1",
+        "#fde9e9",
+        "#f5cc27",
+        "#ffe57b"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.5",
+    "siteFonts": [],
+    "uniqCompNum": 12,
+    "versionPublish": "4.10.7",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "84px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "100px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "buttonAlign": "left",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bandera-del-per-2000x1226.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#16a085",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#e74c3c",
+            "overlayOpacity": "0.8"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "PROMER<br>Superfoods&nbsp;Perú",
+          "text": "UNA NUEVA FORMA DE ENTENDER NUESTRA ALIMENTACIÓN",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header9-9\" data-toolbar=\"-mbrBtnMove\">conoce más...</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-0"
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "50px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showText": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "<br>Perú el territorio de los superfoods",
+          "text": "Hace miles de años, la fusión de la tierra con la sabiduría del hombre andino dio una cosecha especial en el Perú. Sus frutos, hijos de la biodiversidad y de una innovación ancestral privilegiada, son parte de la familia que hoy se conoce en el mundo como superfoods: alimentos naturales, saludables e ideales para la nutrición.",
+          "title1": "BIODIVERSIDAD",
+          "title2": "CAPACIDAD EXPORTADORA",
+          "title3": "TRAZABILIDAD E INNOVACIÓN",
+          "title4": "GASTRONOMÍA CON SAZÓN",
+          "title5": "SABIDURÍA ANCESTRAL",
+          "title6": "DESTINO DE INVERSIÓN",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-9\" aria-expanded=\"false\">NUESTRA BIODIVERSIDAD</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-9\" aria-expanded=\"false\">NUESTRA CAPACIDAD EXPORTADORA</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-9\" aria-expanded=\"false\">NUESTRA TRAZABILIDAD E INNOVACIÓN</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-9\" aria-expanded=\"false\">NUESTRA GASTRONOMÍA CON SAZÓN</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-9\" aria-expanded=\"true\">NUESTRA SABIDURÍA ANCESTRAL</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-9\" aria-expanded=\"false\">NUESTRA IMAGEN COMO DESTINO DE INVERSIÓN</a></li>",
+          "media11": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biodiversidad-1-403x629.jpeg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media12": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/exportadora-1-347x542.jpeg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media13": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tres-463x603.jpeg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media14": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cuatro-1-335x531.jpeg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media15": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cinco-1-364x548.jpeg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media16": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/seis-1-382x567.jpeg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media24": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media25": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media26": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "El Perú es uno de los diez países\n<br>megadiversos del mundo, lo que\n<br>representa una gran oportunidad. Su\n<br>diversidad geográfica y de microclimas\n<br>favorece a que una gran variedad de\n<br>superfoods crezcan naturalmente y en\n<br>abundancia. Cultivar superfoods —como\n<br>la quinua y la kiwicha— es una herencia de\n<br>miles de años atrás. Nuestros agricultores\n<br>conocen la naturaleza, y son expertos en la\n<br>siembra y cosecha de alimentos.",
+          "text2": "El Perú está conectado con el mundo: los acuerdos\n<br>comerciales que posee le permiten acceder a más de\n<br>3300 millones de personas. Se encuentra entre los diez\n<br>principales países que proveen alimentos al mundo y\n<br>es líder en la exportación de superfoods. Es el primer\n<br>exportador mundial de espárrago fresco y quinua;\n<br>segundo de castaña y palta fresca; tercero de arándano;\n<br>quinto de mango; y sexto de uva fresca.",
+          "text3": "El Perú cuenta con cadenas de procesos que son\n<br>transparentes y sostenibles desde el momento\n<br>de la siembra hasta la comercialización final de\n<br>los alimentos. Estos productos pasan exigentes\n<br>controles de calidad y son avalados por múltiples\n<br>certificaciones internacionales: ISO; Global GAP,\n<br>BRC, Tesco, Rainforest Alliance, USDA o JAS. La\n<br>producción nacional de superfoods está alineada\n<br>con los nuevos hábitos de consumo, es innovadora\n<br>y confiable.",
+          "text4": "El Perú es un destino gastronómico\n<br>a nivel mundial. Cada plato combina\n<br>perfectamente los saberes de los\n<br>agricultores, la destreza de los cocineros\n<br>y nuestra historia. Desde 2012 hemos sido\n<br>distinguidos como Mejor Destino Culinario\n<br>del mundo. Y nuestra gastronomía ha sido\n<br>reconocida como Patrimonio Cultural de\n<br>las Américas (OEA, 2011). Se estima que\n<br>cada día se abren tres nuevos restaurantes\n<br>peruanos en el mundo.",
+          "text5": "El Perú es un país líder en la\n<br>protección de las tradiciones\n<br>milenarias y los conocimientos\n<br>ancestrales. Más de dos millones\n<br>de familias campesinas aplican\n<br>estos saberes relacionados con el\n<br>campo y transmitidos a lo largo de\n<br>varias generaciones. Así, tenemos\n<br>hasta 4500 especies nativas de\n<br>usos conocidos, y somos un país\n<br>líder en el uso de plantas y hierbas\n<br>aromáticas y medicinales.",
+          "text6": "El Perú es un valioso hub en América Latina.\n<br>Además, bancos de inversión como Goldman\n<br>Sachs, uno de los más grandes del mundo,\n<br>nos recomienda como destino para las\n<br>inversiones. Aprovechar las potencialidades\n<br>que nos otorgan los superfoods representa\n<br>una oportunidad de negocios a todo nivel: el\n<br>mercado mundial demanda nuevos alimentos,\n<br>sabores y presentaciones, y el Perú está\n<br>preparado para brindárselos.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "color": "#ffffff",
+              "font-size": "80px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aguaymanto-2000x2000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#51b9bc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#27ae60",
+            "overlayOpacity": "0.8"
+          },
+          "title": "¿Porqué PROMER Superfoods?",
+          "title1": "Bootstrap 4",
+          "subtitle1": "<b>GARANTÍA</b>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "<b>EXPERIENCIA</b>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "<b>COMPETITIVIDAD</b>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html#team1-7\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">NUESTROS PRODUCTOS</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "",
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "rows": "2",
+            "bgItem1": "#e74c3c",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#480364",
+            "bgItem4": "#ac5203",
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tenemos los alimentos excepcionales<br>que conquistan al mundo",
+          "subtitle": "Frutas, Hortalizas, Tubérculos y Raíces, Granos, Hierbas y Hortalizas",
+          "person1": "Frutas",
+          "person2": "Hortalizas",
+          "person3": "Tubérculos y Raíces",
+          "person4": "Granos",
+          "subtitle1": "DEVELOPER",
+          "subtitle2": "DESIGNER",
+          "subtitle3": "DESIGNER",
+          "subtitle4": "PHOTOGRAPHER",
+          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
+          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpeg",
+              "class": "features-img",
+              "width": 600,
+              "link": "page1.html#header7-e",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hortalizas-600x400.jpeg",
+              "class": "features-img",
+              "width": 600,
+              "link": "page2.html#header7-19",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tuberculos-600x386.jpeg",
+              "class": "features-img",
+              "width": 600,
+              "link": "page3.html#header7-1a",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/granos-600x400.jpeg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-7",
+          "_styles": {
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".text1": {
+              "color": "#ffffff"
+            },
+            ".subtitle1": {
+              "color": "#ffffff"
+            },
+            ".title1": {
+              "color": "#ffffff"
+            },
+            ".text3": {
+              "color": "#ffffff"
+            },
+            ".subtitle3": {
+              "color": "#ffffff"
+            },
+            ".title3": {
+              "color": "#ffffff"
+            },
+            ".text4": {
+              "color": "#ffffff"
+            },
+            ".subtitle4": {
+              "color": "#ffffff"
+            },
+            ".title4": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "rows": "1",
+            "bgItem1": "#077033",
+            "bgItem2": "#540202",
+            "bgItem3": "#d35400",
+            "bgItem4": "#212121",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Team",
+          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "person1": "Hierbas",
+          "person2": "Cacao",
+          "person3": "Barry Bostwick",
+          "person4": "Anna Cameron",
+          "subtitle1": "DEVELOPER",
+          "subtitle2": "DESIGNER",
+          "subtitle3": "DESIGNER",
+          "subtitle4": "PHOTOGRAPHER",
+          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
+          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hierbas-600x400.jpeg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cacao-1-600x547.jpeg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/face3.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/face4.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-a",
+          "_styles": {
+            ".title1": {
+              "color": "#ffffff"
+            },
+            ".subtitle1": {
+              "color": "#ffffff"
+            },
+            ".text1": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "Ponte en contacto con nosotros",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "mguevararojas@gmail.com",
+            "alerts": {
+              "success": "Gracias, nos ponemos en contacto en breve contigo!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Consulta"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-w"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Av. Bertoloto 500, San Miguel",
+              "placeId": "EilBdiBCZXJ0b2xvdHRvIDUwMCwgU2FuIE1pZ3VlbCAxNTA4NiwgUGVydSIbEhkKFAoSCY-DyUifyQWREVaLcgu3cMZvEPQD",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Frutas",
+          "text12": "Granos",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "company",
+          "text21": "Hortalizas",
+          "text22": "Hierbas",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "Learn more",
+          "text31": "Tubérculos",
+          "text32": "Cacao",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Frutas",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-weight": "bold",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4eac2b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/frutas-1536x2048.jpeg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "FRUTAS",
+          "subtitle": "SUPERFOODS PERÚ",
+          "text": "ESTADOS UNIDOS,\nHOLANDA Y\nREINO UNIDO\nFIGURARON, EN\nESE ORDEN, COMO\nLOS PRINCIPALES&nbsp;CONSUMIDORES DE FRUTAS FRESCAS\nPERUANAS,\nCON COMPRAS\nEQUIVALENTES\nA 1546 MILLONES\nDE DÓLARES.\n<br>LOS TRES PAÍSES\nCONCENTRARON\nEL 69,9% DEL TOTAL\nEXPORTADO,\nA TRAVÉS DE\nLA COMPRA DE\nUVAS, BANANAS,\nMANGOS, PALTAS Y\nMANDARINAS.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#progress-bar7-i\" data-toolbar=\"-mbrBtnMove\">leer más</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-e"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/extFeatures1/images/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.75
+          },
+          "title": "View Our Statistic",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquam fuga aspernatur quaerat nobis deserunt.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "subtitle1": "Views",
+          "subtitle2": "Images",
+          "subtitle3": "Sites",
+          "subtitle4": "Projects",
+          "number1": "69809",
+          "number2": "3726",
+          "number3": "341",
+          "number4": "57",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "counters4",
+          "_anchor": "counters4-9"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showTitles": true,
+            "showText": false,
+            "showSubtitles": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/extFeatures1/images/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.75
+          },
+          "title": "View Our Statistic",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquam fuga aspernatur quaerat nobis deserunt.",
+          "subtitle1": "Views",
+          "subtitle2": "Images",
+          "subtitle3": "Sites",
+          "subtitle4": "Projects",
+          "number1": "69809",
+          "number2": "3726",
+          "number3": "341",
+          "number4": "57",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "counters2",
+          "_anchor": "counters2-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "stripedBars": false,
+            "progress1": 25,
+            "progress2": 45,
+            "progress3": 65,
+            "progress4": 85,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/08.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#34495e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#34495e",
+            "overlayOpacity": 0.85
+          },
+          "title": "Basic Progress Bars",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fugiat perferendis voluptates, animi cum dignissimos debitis, nam hic aspernatur cumque quaerat dolorum sed, delectus rerum omnis consequatur nulla neque temporibus quis ipsam dolor esse dolore! Commodi quidem necessitatibus nesciunt. Repellat quo dolores beatae facere provident rem magnam quidem vel autem?",
+          "title1": "Photoshop",
+          "title2": "Illustrator",
+          "title3": "Coreldraw",
+          "title4": "Photography",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "progress-bar1",
+          "_anchor": "progress-bar1-b"
+        },
+        {
+          "_params": {
+            "progress1": "63",
+            "progress2": "69",
+            "progress3": "51",
+            "progress4": 60,
+            "progress5": 70,
+            "progress6": 80,
+            "showTitles": true,
+            "showTexts": true,
+            "progressColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f3f0f0",
+            "overlayOpacity": 0.7
+          },
+          "title1": "COMPOSICIÓN",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "El 80% de la composición de las frutas es agua",
+          "title2": "SON NATIVAS",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "En el Perú\nexisten más de\n600 especies de\n<br>frutas\n553 son nativas",
+          "title3": "de participación\r del total&nbsp;<div>exportado.</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "En 2017, Estados\nUnidos fue el principal\nconsumidor<br>de nuestras\nfrutas frescas, con&nbsp;compras por\n783\nMILLONES",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "progress-bar7",
+          "_anchor": "progress-bar7-i",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "@primaryColor !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "progress1": "74",
+            "progress2": "45",
+            "progress3": 50,
+            "progress4": 60,
+            "showSubtitles": true,
+            "showTexts": true,
+            "progressColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f60",
+            "overlayOpacity": 0.3
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "The most popular web framework",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a huge list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large<br>selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself<br>to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "laptop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "media2_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "media3_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "media4_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "tablet",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "media5_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "media6_left": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
+              "name": "document",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "et-line"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "progress-bar8",
+          "_anchor": "progress-bar8-8",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "@primaryColor !important"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "color": "#222"
+            },
+            ".lead": {
+              "color": "#222",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "title": "camu&nbsp;camu, aguaymanto, arándano, chirimoya, granada, granadilla, guanábana, lúcuma, mandarina, uva, mango y palta ingresan a los Mercados internacionales&nbsp;<span style=\"font-weight: normal;\">con la fuerza de los Superfoods Peru.</span>",
+          "text": "HOY, FRUTAS COMO EL",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"page1.html#features10-m\" data-toolbar=\"-mbrBtnMove\">NUESTROS PRODUCTOS</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "call2",
+          "_anchor": "call2-j"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": false,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "About",
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0392b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biodiversidad-403x629.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "About us",
+          "title3": "Camu camu",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "EL CAMU CAMU ES UNA ESPECIE NATIVA DE\n<br>LA SELVA PERUANA que crece en las riberas\n<br>de los ríos y en los terrenos inundables de la\n<br>Amazonía. Sus frutos son pequeños, de color\n<br>rojo (o verde) y de sabor muy ácido. El tamaño\n<br>de este diminuto fruto contrasta con los\n<br>innumerables beneficios que brinda. Aparte\n<br>de ser uno de los frutos nativos que posee\n<br>más cantidad de ácido ascórbico (vitamina C),\n<br>posee diferentes compuestos bioactivos que\n<br>según estudios podrían ser utilizados para\n<br>retardar o prevenir diversas enfermedades\n<br>cardiovasculares y el cáncer.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-m"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "bgColor": "#fcf6f1"
+          },
+          "text1": "<p>Debido a su poder antioxidante también&nbsp;<span style=\"font-size: 1rem;\">se ha estudiado su influencia en el estrés&nbsp;</span><span style=\"font-size: 1rem;\">oxidativo. El camu camu aporta al organismo&nbsp;</span><span style=\"font-size: 1rem;\">CAMU CAMU</span></p><p><span style=\"font-size: 1rem;\">varias clases de aminoácidos, como serina,&nbsp;</span><span style=\"font-size: 1rem;\">valina y leucina, además de otros nutrientes,&nbsp;</span><span style=\"font-size: 1rem;\">como: sodio, potasio, calcio, zinc, magnesio,&nbsp;</span><span style=\"font-size: 1rem;\">manganeso o cobre.</span></p><p>Esta fruta contiene un alto índice de vitamina&nbsp;<span style=\"font-size: 1rem;\">C: posee 10 veces más que la naranja y 40&nbsp;</span><span style=\"font-size: 1rem;\">veces más que el limón (medida basada&nbsp;</span><span style=\"font-size: 1rem;\">en 100 gramos de cada fruta). La vitamina&nbsp;</span><span style=\"font-size: 1rem;\">C contenida en este fruto contribuye a la</span></p><p><span style=\"font-size: 1rem;\">formación de huesos, dientes, piel, cartílagos,&nbsp;</span><span style=\"font-size: 1rem;\">ligamentos, y colágeno, proteína que&nbsp;</span><span style=\"font-size: 1rem;\">incide en el desarrollo de tendones y vasos&nbsp;</span><span style=\"font-size: 1rem;\">sanguíneos.</span></p><p><span style=\"font-size: 1rem;\">Esta fruta contiene un alto índice de vitamina C: posee 10 veces más que la naranja y 40 veces más que el limón (medida basada en 100 gramos de cada fruta).</span></p>",
+          "text2": "<p><span style=\"font-size: 1rem;\">La vitamina&nbsp;</span><span style=\"font-size: 1rem;\">C contenida en este fruto contribuye a la&nbsp;</span><span style=\"font-size: 1rem;\">formación de huesos, dientes, piel, cartílagos,&nbsp;</span><span style=\"font-size: 1rem;\">ligamentos, y colágeno, proteína que&nbsp;</span><span style=\"font-size: 1rem;\">incide en el desarrollo de tendones y vasos&nbsp;</span><span style=\"font-size: 1rem;\">sanguíneos.</span></p><p>Por otro lado, se ha investigado sobre su&nbsp;<span style=\"font-size: 1rem;\">potencial en la prevención de enfermedades&nbsp;</span><span style=\"font-size: 1rem;\">relacionadas con el sistema inmunológico en un&nbsp;</span></p><p>estudio que sugirió que el extracto de semilla es&nbsp;<span style=\"font-size: 1rem;\">una fuente de ácido betulínico.&nbsp;</span><span style=\"font-size: 1rem;\">El camu camu es consumido en varias&nbsp;</span><span style=\"font-size: 1rem;\">presentaciones, como en harina, en pulpa,&nbsp;</span><span style=\"font-size: 1rem;\">en cápsulas, en néctar; y sirve para elaborar</span></p><p>productos como licores, mermelada, yogur,&nbsp;<span style=\"font-size: 1rem;\">confitería, helados, etc. En 2017, los principales&nbsp;</span><span style=\"font-size: 1rem;\">mercados que importaron esta fruta fueron</span></p><p>Estados Unidos (51%), Japón (10%) y Reino&nbsp;<span style=\"font-size: 1rem;\">Unido (6%).</span></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-o",
+          "_styles": {
+            "DIV": {
+              "color": "#302f2f"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": false,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "GOLDENBERRIES",
+            "showButtons": true,
+            "imageSize": "45",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e67e22",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aguaymanto-600x600.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "About us",
+          "title3": "Aguaymanto",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ES CONSIDERADO UNO DE LOS\n<br>CINCO MEJORES ALIMENTOS\n<br>PRODUCIDOS EN EL PERÚ QUE\n<br>BENEFICIAN A LA SALUD.\n<br>Puede fortalecer el sistema\n<br>inmunológico debido a que\n<br>contiene antioxidantes, vitaminas\n<br>A y C, fósforo y potasio. Los\n<br>antioxidantes ayudan a retardar el\n<br>envejecimiento celular y mejoran\n<br>el desempeño de las funciones\n<br>cardiovasculares. Existen estudios\n<br>que confieren al aguaymanto\n<br>propiedades de reducción de\n<br>colesterol en pacientes con\n<br>hipercolesterolemia.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#faede1"
+          },
+          "text": "<p>BENEFICIO PARA LA SALUD:&nbsp;<span style=\"font-size: 1rem;\">Contiene cantidades relevantes\n&nbsp;</span><span style=\"font-size: 1rem;\">de vitamina A y potasio</span></p><p><span style=\"font-size: 1rem;\">FORMAS DE CONSUMO: Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas</span></p><p><span style=\"font-size: 1rem;\">DISPONIBILIDAD ESTACIONARIA: Febrero y junio</span></p><p><span style=\"font-size: 1rem;\">NOMBRE CIENTÍFICO: Physalis peruviana</span></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-r"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": false,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "About",
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#610687",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/arndanos-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "About us",
+          "title3": "Arándano",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ENTRE 2016 Y 2017, SE DUPLICÓ LA COSECHA\n<br>(DE 20 000 A 40 000 TONELADAS) Y LA TENDENCIA\nSIGUE EN AUMENTO. ACTUALMENTE SOMOS\nEL SEGUNDO EXPORTADOR A NIVEL MUNDIAL.\n<br>Durante los últimos cinco años, el Perú desplazó a otros\npaíses exportadores de arándanos al crecer en 1355% su\nparticipación en el mercado de Estados Unidos.El arándano\nposee abundantes pigmentos naturales (antocianos\ny carotenoides) de acción antioxidante. Contiene\nbioflavonoides y vitamina A, que pueden contribuir a\nmejorar la visión nocturna, al prevenir ciertas alteraciones\nvisuales. También un estudio realizado usando polvo de\narándano liofilizado en mujeres posmenopáusicas indicó\nque podía reducir la presión arterial debido, en parte, a la\nproducción de óxido nítrico.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#ffffff"
+          },
+          "text": "Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-u"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": false,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "About",
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#16a085",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/guanabana-600x903.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "About us",
+          "title3": "Guanábana",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "LA GUANÁBANA ES RICA EN VITAMINAS C, B1 Y B2, Y\nEN MINERALES (magnesio, potasio, fósforo y hierro) que\nfortalecen el organismo. Sus hojas, semillas, raíz y fruta\nson usadas tradicionalmente para diversos beneficios en\nla salud y existen estudios sobre el potencial que tiene\nsobre la hipertensión, inflamaciones, sus propiedades\nhepatoprotectoras, etc. También posee un alto contenido\nde fibras, que contribuyen a un correcto funcionamiento\ndel tránsito intestinal, mientras que la tiamina (vitamina\nB1) ayuda a las células del organismo a\nconvertir carbohidratos en energía\ny juega un papel en la contracción&nbsp;muscular y la conducción de las\nseñales nerviosas. Por su parte, la\nvitamina B2 es importante para\nel crecimiento y la producción de\n<br>glóbulos rojos.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-12"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "REALIZA TU PEDIDO",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Envíanos tus datos y en lo más breve nos pondremos en contacto contigo",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "mguevararojas@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-13"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "<a href=\"#top\">Frutas</a>",
+          "text12": "Granos",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "company",
+          "text21": "<a href=\"page2.html\">Hortalizas</a>",
+          "text22": "Hierbas",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "Learn more",
+          "text31": "<a href=\"page3.html\">Tubérculos</a>",
+          "text32": "Cacao",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Hortalizas",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-weight": "bold"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#047e37",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hortalizas2-1365x2048.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "HORTALIZAS",
+          "subtitle": "SUPERFOODS PERU",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-19"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "CONTÁCTANOS",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "mguevararojas@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "<a href=\"#top\">Frutas</a>",
+          "text12": "Granos",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "company",
+          "text21": "<a href=\"page2.html\">Hortalizas</a>",
+          "text22": "Hierbas",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "Learn more",
+          "text31": "<a href=\"page3.html\">Tubérculos</a>",
+          "text32": "Cacao",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Tubérculos y Raíces",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-weight": "bold",
+              "font-size": "84px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fd7a24",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tuberculos2-1379x2048.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "TUBÉRCULOS<br>Y RAÍCES",
+          "subtitle": "SUPERFOODS PERU",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page3.html#form1-1c\" data-toolbar=\"-mbrBtnMove\">leER MÁS</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-1a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "CONTÁCTANOS",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "mguevararojas@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "<a href=\"#top\">Frutas</a>",
+          "text12": "Granos",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "company",
+          "text21": "<a href=\"page2.html\">Hortalizas</a>",
+          "text22": "Hierbas",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "Learn more",
+          "text31": "<a href=\"page3.html\">Tubérculos</a>",
+          "text32": "Cacao",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Contáctanos",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-14"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "font-size": "80px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cacao2-829x716.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#16a085",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#16a085",
+            "overlayOpacity": "0.7"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "<b>CONTÁCTANOS</b>",
+          "text": "ESTAREMOS GUSTOSOS DE ATENDERTE",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">download it</a>",
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "mguevararojas@gmail.com",
+            "alerts": {
+              "success": "Gracias nos ponemos en contacto contigo en breve!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre y Apellidos*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "intro1",
+          "_anchor": "intro1-17"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showText1": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>Donde estamos</b>",
+          "text": "No ubicamos en la Ciudad de LIma&nbsp;",
+          "text1": "or <a href=\"http://mobirise.com\">Check FAQ</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">start here</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "call5",
+          "_anchor": "call5-1f"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Av. Malecón Bertoloto 500, San Miguel",
+              "placeId": "ChIJV1V2F6LJBZERIHglDpjQUCg",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-18"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "<a href=\"#top\">Frutas</a>",
+          "text12": "Granos",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "company",
+          "text21": "<a href=\"page2.html\">Hortalizas</a>",
+          "text22": "Hierbas",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "Learn more",
+          "text31": "<a href=\"page3.html\">Tubérculos</a>",
+          "text32": "Cacao",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15"
+        }
+      ]
+    }
+  }
+}
