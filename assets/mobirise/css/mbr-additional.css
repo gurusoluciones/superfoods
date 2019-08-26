@@ -937,6 +937,8 @@ section.form .container {
 }
 
 
+
+
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1039,6 +1041,12 @@ section.form .container {
 #content6-o DIV {
   color: #000000;
 }
+#content2-t B {
+  font-family: 'Ubuntu', sans-serif;
+}
+#content2-t DIV {
+  color: #000000;
+}
 #features10-q .lead {
   color: #ffffff;
 }
@@ -1049,8 +1057,9 @@ section.form .container {
   color: #ffffff;
 }
 #content2-r P {
-  color: #34495e;
+  color: #000000;
   font-size: 17px;
+  font-family: 'Ubuntu', sans-serif;
 }
 #features10-s .lead {
   color: #ffffff;
@@ -1063,6 +1072,9 @@ section.form .container {
 }
 #content2-u BLOCKQUOTE {
   font-size: 17px;
+}
+#content2-u DIV {
+  color: #000000;
 }
 #features10-v .lead {
   color: #ffffff;
