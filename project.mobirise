@@ -159,7 +159,7 @@
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "72px"
+              "font-size": "60px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Ubuntu', sans-serif",
@@ -187,7 +187,7 @@
             "overlayOpacity": "0.8"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "PROMER<br>Superfoods&nbsp;Perú",
+          "title": "PROMER<br>Super foods&nbsp;Perú",
           "text": "UNA NUEVA FORMA DE ENTENDER NUESTRA ALIMENTACIÓN",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header9-9\" data-toolbar=\"-mbrBtnMove\">conoce más...</a>",
           "alias": "colorm/components",
@@ -393,7 +393,7 @@
             ".mbr-section-title": {
               "font-weight": "700",
               "color": "#ffffff",
-              "font-size": "72px"
+              "font-size": "60px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
