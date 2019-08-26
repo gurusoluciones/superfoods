@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-21_0115",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -159,7 +159,7 @@
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "84px"
+              "font-size": "72px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Ubuntu', sans-serif",
@@ -393,7 +393,7 @@
             ".mbr-section-title": {
               "font-weight": "700",
               "color": "#ffffff",
-              "font-size": "80px"
+              "font-size": "72px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
@@ -620,7 +620,8 @@
           "_styles": {
             "H1": {
               "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "48px"
             },
             ".text1": {
               "color": "#ffffff"
