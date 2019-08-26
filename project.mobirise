@@ -123,7 +123,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -138,7 +138,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -978,7 +978,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -993,7 +993,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1663,7 +1663,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1678,7 +1678,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1742,32 +1742,6 @@
           "_anchor": "header7-19"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "6",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "title": "Tenemos la más grande variedad",
-          "meta": "El Perú produce frutas y hortalizas que cumplen con las más altas exigencias de calidad en cuanto a sabor, color, aroma y consistencia. Entre las hortalizas destacan los espárragos verdes y blancos, procesados bajo estrictos estándares de calidad, al igual que alcachofas en conserva, pimientos y páprika.<br>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-c"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
@@ -1777,7 +1751,7 @@
             "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1787,7 +1761,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Conoce más acerca de ellas",
-          "subtitle": "La mayoría de las hortalizas contienen\n gran cantidad de vitaminas y minerales, y pertenecen al grupo de alimentos reguladores en la pirámide de los alimentos, al igual que las frutas. <br>La vitamina A está presente en gran parte de las hortalizas en forma de provitamina. Todas estas propiedades hacen que sea recomendable consumirlas con frecuencia al día.",
+          "subtitle": "El Perú produce hortalizas que cumplen con las más altas exigencias de calidad en cuanto a sabor, color, aroma y consistencia. Entre las hortalizas destacan los espárragos verdes y blancos, procesados bajo estrictos estándares de calidad, al igual que alcachofas en conserva, pimientos y páprika.<br><br>La mayoría de las hortalizas contienen\n gran cantidad de vitaminas y minerales, y pertenecen al grupo de alimentos reguladores en la pirámide de los alimentos. <br>La vitamina A está presente en gran parte de las hortalizas en forma de provitamina. Todas estas propiedades hacen que sea recomendable consumirlas con frecuencia al día.",
           "person1": "Ají",
           "person2": "Alcachofas",
           "person3": "Aceituna",
@@ -1857,7 +1831,12 @@
             "Tema"
           ],
           "_name": "team2",
-          "_anchor": "team2-d"
+          "_anchor": "team2-d",
+          "_styles": {
+            "H3": {
+              "color": "#999999"
+            }
+          }
         },
         {
           "_styles": {
@@ -1880,10 +1859,10 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
-            "imageSize": "40",
+            "showButtons": false,
+            "imageSize": "50",
             "paddingTop": 2,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
@@ -1910,7 +1889,7 @@
           },
           "title1": "Ají",
           "subtitle1": "CAPSICUM",
-          "caption1": "LOS AJÍES NATIVOS SON UN ALIMENTO CON\n<br>UN BAJO APORTE CALÓRICO, dado que están\n<br>formados en casi 90% por agua. Además, poseen\n<br>en gran medida capsaicina, componente presente\n<br>en el género Capsicum (género de plantas\n<br>angiospermas) que no solo da el sabor picante\n<br>sino que se han estudiado sus propiedades como\n<br>analgésico y anticoagulante.",
+          "caption1": "LOS AJÍES NATIVOS SON UN ALIMENTO CON\nUN BAJO APORTE CALÓRICO, dado que están\nformados en casi 90% por agua. Además, poseen\nen gran medida capsaicina, componente presente\nen el género Capsicum (género de plantas\nangiospermas) que no solo da el sabor picante\nsino que se han estudiado sus propiedades como\nanalgésico y anticoagulante.",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -1984,7 +1963,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "imageSize": 50,
             "paddingTop": 2,
             "paddingBottom": "1",
@@ -2085,7 +2064,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "imageSize": 50,
             "paddingTop": 2,
             "paddingBottom": "1",
@@ -2186,10 +2165,10 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "imageSize": 50,
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
@@ -2481,7 +2460,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2496,7 +2475,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2772,7 +2751,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2787,7 +2766,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADIGN PROMER</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"

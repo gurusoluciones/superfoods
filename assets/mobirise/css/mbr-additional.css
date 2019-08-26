@@ -1167,15 +1167,8 @@ section.form .container {
   color: #ffffff;
   font-weight: bold;
 }
-#content3-c .mbr-section-title,
-#content3-c .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-c H3 {
-  text-align: right;
-}
-#content3-c P {
-  text-align: right;
+#team2-d H3 {
+  color: #999999;
 }
 #features8-h .lead {
   color: #9fa3a7;
