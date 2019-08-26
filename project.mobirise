@@ -1733,7 +1733,7 @@
           "title": "HORTALIZAS",
           "subtitle": "SUPERFOODS PERU",
           "text": "Las Hortalizas se cultivan todo el año, Esta disponibilidad contribuye a su colocación en el mercado nacional y facilita su venta en mercados extranjeros.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html#content3-c\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1745,6 +1745,12 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
           "_params": {
@@ -1804,9 +1810,10 @@
               "src": "@PROJECT_PATH@/assets/images/aji2-600x450.jpeg",
               "class": "features-img",
               "width": 600,
-              "link": "",
+              "link": "page2.html#features8-h",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1815,9 +1822,10 @@
               "src": "@PROJECT_PATH@/assets/images/alcachofa3-600x433.jpeg",
               "class": "features-img",
               "width": 600,
-              "link": "",
+              "link": "page2.html#features8-i",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -1826,9 +1834,10 @@
               "src": "@PROJECT_PATH@/assets/images/aceituna4-600x600.jpeg",
               "class": "features-img",
               "width": 600,
-              "link": "",
+              "link": "page2.html#features8-n",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -1837,9 +1846,10 @@
               "src": "@PROJECT_PATH@/assets/images/esprrago2-600x600.jpeg",
               "class": "features-img",
               "width": 600,
-              "link": "",
+              "link": "page2.html#features8-q",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "alias": "colorm/components",
@@ -1858,7 +1868,10 @@
               "text-transform": "uppercase"
             },
             ".mbr-section-text": {
-              "color": "#ffffff"
+              "color": "#333333"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -1914,7 +1927,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1942,7 +1955,7 @@
             "paddingBottom": 1,
             "bgColor": "#ecf0f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1957,6 +1970,12 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "color": "#333333"
             }
           },
           "_params": {
@@ -2012,7 +2031,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2040,7 +2059,7 @@
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2055,6 +2074,9 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -2110,7 +2132,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2153,6 +2175,9 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -2208,7 +2233,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2236,7 +2261,7 @@
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2269,34 +2294,34 @@
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "title": "CONTÁCTANOS",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "title": "HAZ TU PEDIDO",
+          "subtitle": "Estaremos gustosos de atenderte",
+          "text": "Envíanos tus datos y nos pondremos en contacto en seguida contigo",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "form": {
             "action": "mguevararojas@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Gracias, nos contactamos en breve!"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Nombre y Apellidos*"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "E-mail*"
               },
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Teléfono"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Detalle del pedido"
               }
             }
           },

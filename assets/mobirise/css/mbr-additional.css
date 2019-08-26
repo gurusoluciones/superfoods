@@ -1171,6 +1171,12 @@ section.form .container {
 #content3-c .mbr-section-subtitle {
   text-align: center;
 }
+#content3-c H3 {
+  text-align: right;
+}
+#content3-c P {
+  text-align: right;
+}
 #features8-h .lead {
   color: #9fa3a7;
 }
@@ -1178,7 +1184,10 @@ section.form .container {
   text-transform: uppercase;
 }
 #features8-h .mbr-section-text {
-  color: #ffffff;
+  color: #333333;
+}
+#features8-h .mbr-section-title {
+  font-size: 48px;
 }
 #features8-i .lead {
   color: #9fa3a7;
@@ -1186,17 +1195,29 @@ section.form .container {
 #features8-i .mbr-section-subtitle {
   text-transform: uppercase;
 }
+#features8-i .mbr-section-title {
+  font-size: 48px;
+}
+#features8-i .mbr-section-text {
+  color: #333333;
+}
 #features8-n .lead {
   color: #9fa3a7;
 }
 #features8-n .mbr-section-subtitle {
   text-transform: uppercase;
 }
+#features8-n .mbr-section-title {
+  font-size: 48px;
+}
 #features8-q .lead {
   color: #9fa3a7;
 }
 #features8-q .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#features8-q .mbr-section-title {
+  font-size: 48px;
 }
 #form1-1d .mbr-section-subtitle {
   text-transform: uppercase;
