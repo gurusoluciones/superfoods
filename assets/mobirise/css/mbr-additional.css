@@ -1088,6 +1088,7 @@ section.form .container {
   margin-top: 0;
 }
 
+
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1169,6 +1170,7 @@ section.form .container {
 }
 #team2-d H3 {
   color: #999999;
+  font-family: 'Ubuntu', sans-serif;
 }
 #features8-h .lead {
   color: #9fa3a7;
