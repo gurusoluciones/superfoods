@@ -92,7 +92,7 @@ textarea,
 .btn-primary {
   background-color: #f39c12;
   border-color: #f39c12;
-  color: #ecf0f1;
+  color: #ffffff;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -112,7 +112,7 @@ textarea,
 .btn-secondary {
   background-color: #9b59b6;
   border-color: #9b59b6;
-  color: #ecf0f1;
+  color: #ffffff;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
@@ -132,7 +132,7 @@ textarea,
 .btn-info {
   background-color: #3498db;
   border-color: #3498db;
-  color: #ecf0f1;
+  color: #ffffff;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -152,7 +152,7 @@ textarea,
 .btn-success {
   background-color: #27ae60;
   border-color: #27ae60;
-  color: #ecf0f1;
+  color: #ffffff;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -172,7 +172,7 @@ textarea,
 .btn-warning {
   background-color: #f1c40f;
   border-color: #f1c40f;
-  color: #ecf0f1;
+  color: #ffffff;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -192,7 +192,7 @@ textarea,
 .btn-danger {
   background-color: #e74c3c;
   border-color: #e74c3c;
-  color: #ecf0f1;
+  color: #ffffff;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -932,6 +932,7 @@ section.form .container {
   margin-top: 0;
 }
 
+
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1015,21 +1016,12 @@ section.form .container {
 #progress-bar7-i path[stroke] {
   stroke: #f39c12 !important;
 }
-#progress-bar8-8 path[stroke] {
-  stroke: #f39c12 !important;
+#content2-b BLOCKQUOTE {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
 }
-#call2-j .display-1 {
-  font-weight: 700;
-  color: #222;
-}
-#call2-j .lead {
-  color: #222;
-  text-transform: uppercase;
-  margin-bottom: 0;
-}
-#call2-j .mbr-section-title {
-  text-align: left;
-  font-size: 36px;
+#content2-b B {
+  color: #34495e;
 }
 #features10-m .lead {
   color: #ffffff;
@@ -1041,7 +1033,7 @@ section.form .container {
   color: #ffffff;
 }
 #content6-o DIV {
-  color: #302f2f;
+  color: #000000;
 }
 #features10-q .lead {
   color: #ffffff;
@@ -1052,6 +1044,10 @@ section.form .container {
 #features10-q .mbr-section-title {
   color: #ffffff;
 }
+#content2-r P {
+  color: #000000;
+  font-size: 17px;
+}
 #features10-s .lead {
   color: #ffffff;
 }
@@ -1060,6 +1056,9 @@ section.form .container {
 }
 #features10-s .mbr-section-title {
   color: #ffffff;
+}
+#content2-u BLOCKQUOTE {
+  font-size: 17px;
 }
 #features10-v .lead {
   color: #ffffff;
@@ -1167,9 +1166,6 @@ section.form .container {
 #form1-1d .mbr-section-subtitle {
   text-transform: uppercase;
 }
-#form1-1d .form-control-label {
-  color: undefined;
-}
 #footer1-11 .mbr-section-subtitle,
 #footer1-11 .mbr-section-text {
   color: #fff;
@@ -1261,9 +1257,6 @@ section.form .container {
 }
 #form1-1c .mbr-section-subtitle {
   text-transform: uppercase;
-}
-#form1-1c .form-control-label {
-  color: undefined;
 }
 #footer1-11 .mbr-section-subtitle,
 #footer1-11 .mbr-section-text {

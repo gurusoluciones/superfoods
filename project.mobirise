@@ -7,7 +7,7 @@
       "title": "ColorM",
       "styling": {
         "primaryColor": "#f39c12",
-        "buttonsColor": "#ecf0f1",
+        "buttonsColor": "#ffffff",
         "secondaryColor": "#9b59b6",
         "successColor": "#27ae60",
         "infoColor": "#3498db",
@@ -123,7 +123,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -174,7 +174,7 @@
             "buttonAlign": "left",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bandera-del-per-2000x1226.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/granos2-1440x807.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#16a085",
@@ -899,7 +899,7 @@
     "page1.html": {
       "settings": {
         "title": "Frutas",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -976,7 +976,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1056,119 +1056,6 @@
           "_anchor": "header7-e"
         },
         {
-          "_styles": {},
-          "_params": {
-            "showTitles": true,
-            "showText": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/extFeatures1/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.75
-          },
-          "title": "View Our Statistic",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquam fuga aspernatur quaerat nobis deserunt.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
-          "subtitle1": "Views",
-          "subtitle2": "Images",
-          "subtitle3": "Sites",
-          "subtitle4": "Projects",
-          "number1": "69809",
-          "number2": "3726",
-          "number3": "341",
-          "number4": "57",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "counters4",
-          "_anchor": "counters4-9"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showTitles": true,
-            "showText": false,
-            "showSubtitles": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/extFeatures1/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.75
-          },
-          "title": "View Our Statistic",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquam fuga aspernatur quaerat nobis deserunt.",
-          "subtitle1": "Views",
-          "subtitle2": "Images",
-          "subtitle3": "Sites",
-          "subtitle4": "Projects",
-          "number1": "69809",
-          "number2": "3726",
-          "number3": "341",
-          "number4": "57",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "counters2",
-          "_anchor": "counters2-a"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "stripedBars": false,
-            "progress1": 25,
-            "progress2": 45,
-            "progress3": 65,
-            "progress4": 85,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/08.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#34495e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#34495e",
-            "overlayOpacity": 0.85
-          },
-          "title": "Basic Progress Bars",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fugiat perferendis voluptates, animi cum dignissimos debitis, nam hic aspernatur cumque quaerat dolorum sed, delectus rerum omnis consequatur nulla neque temporibus quis ipsam dolor esse dolore! Commodi quidem necessitatibus nesciunt. Repellat quo dolores beatae facere provident rem magnam quidem vel autem?",
-          "title1": "Photoshop",
-          "title2": "Illustrator",
-          "title3": "Coreldraw",
-          "title4": "Photography",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "progress-bar1",
-          "_anchor": "progress-bar1-b"
-        },
-        {
           "_params": {
             "progress1": "63",
             "progress2": "69",
@@ -1179,8 +1066,8 @@
             "showTitles": true,
             "showTexts": true,
             "progressColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "columns": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
@@ -1227,169 +1114,27 @@
         },
         {
           "_params": {
-            "progress1": "74",
-            "progress2": "45",
-            "progress3": 50,
-            "progress4": 60,
-            "showSubtitles": true,
-            "showTexts": true,
-            "progressColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f60",
-            "overlayOpacity": 0.3
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "The most popular web framework",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a huge list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large<br>selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself<br>to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "media1_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "laptop",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "media2_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "mobile",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "media3_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "desktop",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "media4_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "tablet",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "media5_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
-          "media6_left": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extProgressBar4",
-              "name": "document",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "et-line"
-            }
-          },
+          "text": "<b>Hoy frutas como el camu camu, aguaymanto, arándano, chirimoya, granada, granadilla, guanábana, lúcuma, mandarina, uva, mango y palta ingresan a los Mercados internacionales con la fuerza de los Superfoods Peru.</b>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
           ],
-          "_name": "progress-bar8",
-          "_anchor": "progress-bar8-8",
+          "_name": "content2",
+          "_anchor": "content2-b",
           "_styles": {
-            "path[stroke]": {
-              "stroke": "@primaryColor !important"
+            "BLOCKQUOTE": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "B": {
+              "color": "#34495e"
             }
           }
-        },
-        {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "color": "#222"
-            },
-            ".lead": {
-              "color": "#222",
-              "text-transform": "uppercase",
-              "margin-bottom": "0"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "title": "camu&nbsp;camu, aguaymanto, arándano, chirimoya, granada, granadilla, guanábana, lúcuma, mandarina, uva, mango y palta ingresan a los Mercados internacionales&nbsp;<span style=\"font-weight: normal;\">con la fuerza de los Superfoods Peru.</span>",
-          "text": "HOY, FRUTAS COMO EL",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"page1.html#features10-m\" data-toolbar=\"-mbrBtnMove\">NUESTROS PRODUCTOS</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "call2",
-          "_anchor": "call2-j"
         },
         {
           "_styles": {
@@ -1404,12 +1149,12 @@
             }
           },
           "_params": {
-            "showTitles": false,
+            "showTitles": true,
             "ShowTexts": true,
             "showImages": true,
             "showImgTitles": true,
             "showBgText": true,
-            "bgText": "About",
+            "bgText": "Camu ",
             "showButtons": true,
             "imageSize": 50,
             "paddingTop": 2,
@@ -1438,11 +1183,11 @@
               "title": ""
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Camu camu",
           "title2": "About us",
           "title3": "Camu camu",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "EL CAMU CAMU ES UNA ESPECIE NATIVA DE\n<br>LA SELVA PERUANA que crece en las riberas\n<br>de los ríos y en los terrenos inundables de la\n<br>Amazonía. Sus frutos son pequeños, de color\n<br>rojo (o verde) y de sabor muy ácido. El tamaño\n<br>de este diminuto fruto contrasta con los\n<br>innumerables beneficios que brinda. Aparte\n<br>de ser uno de los frutos nativos que posee\n<br>más cantidad de ácido ascórbico (vitamina C),\n<br>posee diferentes compuestos bioactivos que\n<br>según estudios podrían ser utilizados para\n<br>retardar o prevenir diversas enfermedades\n<br>cardiovasculares y el cáncer.",
+          "caption1": "ES UNA ESPECIE NATIVA DE\nLA SELVA PERUANA que crece en las riberas\nde los ríos y en los terrenos inundables de la\nAmazonía. Sus frutos son pequeños, de color\nrojo (o verde) y de sabor muy ácido. El tamaño\nde este diminuto fruto contrasta con los\ninnumerables beneficios que brinda. Aparte\nde ser uno de los frutos nativos que posee\nmás cantidad de ácido ascórbico (vitamina C),\nposee diferentes compuestos bioactivos que\nsegún estudios podrían ser utilizados para\nretardar o prevenir diversas enfermedades\ncardiovasculares y el cáncer.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -1467,7 +1212,7 @@
           "_anchor": "content6-o",
           "_styles": {
             "DIV": {
-              "color": "#302f2f"
+              "color": "#000000"
             }
           }
         },
@@ -1484,12 +1229,12 @@
             }
           },
           "_params": {
-            "showTitles": false,
+            "showTitles": true,
             "ShowTexts": true,
             "showImages": true,
             "showImgTitles": true,
             "showBgText": true,
-            "bgText": "GOLDENBERRIES",
+            "bgText": "Goldenberries",
             "showButtons": true,
             "imageSize": "45",
             "paddingTop": 2,
@@ -1518,11 +1263,11 @@
               "title": ""
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Aguaymanto",
           "title2": "About us",
           "title3": "Aguaymanto",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "ES CONSIDERADO UNO DE LOS\n<br>CINCO MEJORES ALIMENTOS\n<br>PRODUCIDOS EN EL PERÚ QUE\n<br>BENEFICIAN A LA SALUD.\n<br>Puede fortalecer el sistema\n<br>inmunológico debido a que\n<br>contiene antioxidantes, vitaminas\n<br>A y C, fósforo y potasio. Los\n<br>antioxidantes ayudan a retardar el\n<br>envejecimiento celular y mejoran\n<br>el desempeño de las funciones\n<br>cardiovasculares. Existen estudios\n<br>que confieren al aguaymanto\n<br>propiedades de reducción de\n<br>colesterol en pacientes con\n<br>hipercolesterolemia.",
+          "caption1": "ES CONSIDERADO UNO DE LOS\nCINCO MEJORES ALIMENTOS\nPRODUCIDOS EN EL PERÚ QUE\nBENEFICIAN A LA SALUD.\nPuede fortalecer el sistema\ninmunológico debido a que\ncontiene antioxidantes, vitaminas\nA y C, fósforo y potasio. Los\nantioxidantes ayudan a retardar el\nenvejecimiento celular y mejoran\nel desempeño de las funciones\ncardiovasculares. Existen estudios\nque confieren al aguaymanto\npropiedades de reducción de\ncolesterol en pacientes con\nhipercolesterolemia.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -1537,13 +1282,19 @@
             "paddingBottom": "5",
             "bgColor": "#faede1"
           },
-          "text": "<p>BENEFICIO PARA LA SALUD:&nbsp;<span style=\"font-size: 1rem;\">Contiene cantidades relevantes\n&nbsp;</span><span style=\"font-size: 1rem;\">de vitamina A y potasio</span></p><p><span style=\"font-size: 1rem;\">FORMAS DE CONSUMO: Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas</span></p><p><span style=\"font-size: 1rem;\">DISPONIBILIDAD ESTACIONARIA: Febrero y junio</span></p><p><span style=\"font-size: 1rem;\">NOMBRE CIENTÍFICO: Physalis peruviana</span></p>",
+          "text": "<p><b>BENEFICIO PARA LA SALUD:&nbsp;</b><span style=\"font-size: 1rem;\">Contiene cantidades relevantes\n&nbsp;</span><span style=\"font-size: 1rem;\">de vitamina A y potasio</span></p><p><span style=\"font-size: 1rem;\"><b>FORMAS DE CONSUMO:</b> Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas</span></p><p><span style=\"font-size: 1rem;\"><b>DISPONIBILIDAD ESTACIONARIA:</b> Febrero y junio</span></p><p><span style=\"font-size: 1rem;\"><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</span></p>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
           ],
           "_name": "content2",
-          "_anchor": "content2-r"
+          "_anchor": "content2-r",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "17px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1558,12 +1309,12 @@
             }
           },
           "_params": {
-            "showTitles": false,
+            "showTitles": true,
             "ShowTexts": true,
             "showImages": true,
             "showImgTitles": true,
             "showBgText": true,
-            "bgText": "About",
+            "bgText": "Arándanos",
             "showButtons": true,
             "imageSize": 50,
             "paddingTop": 2,
@@ -1592,7 +1343,7 @@
               "title": ""
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Arándanos",
           "title2": "About us",
           "title3": "Arándano",
           "subtitle1": "Bootstrap 4 has been noted",
@@ -1617,7 +1368,12 @@
             "Tema"
           ],
           "_name": "content2",
-          "_anchor": "content2-u"
+          "_anchor": "content2-u",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "17px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1632,12 +1388,12 @@
             }
           },
           "_params": {
-            "showTitles": false,
+            "showTitles": true,
             "ShowTexts": true,
             "showImages": true,
             "showImgTitles": true,
             "showBgText": true,
-            "bgText": "About",
+            "bgText": "Guanábana",
             "showButtons": true,
             "imageSize": 50,
             "paddingTop": 2,
@@ -1666,7 +1422,7 @@
               "title": ""
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Guanábana",
           "title2": "About us",
           "title3": "Guanábana",
           "subtitle1": "Bootstrap 4 has been noted",
@@ -1828,7 +1584,7 @@
     "page2.html": {
       "settings": {
         "title": "Hortalizas",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1905,7 +1661,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2118,7 +1874,7 @@
     "page3.html": {
       "settings": {
         "title": "Tubérculos y Raíces",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2195,7 +1951,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2409,7 +2165,7 @@
     "page4.html": {
       "settings": {
         "title": "Contáctanos",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2486,7 +2242,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-9\">PORQUÉ SUPERFOODS PERÚ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cacao</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
