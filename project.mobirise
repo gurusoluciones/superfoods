@@ -1868,7 +1868,7 @@
               "text-transform": "uppercase"
             },
             ".mbr-section-text": {
-              "color": "#333333"
+              "color": "#34495e"
             },
             ".mbr-section-title": {
               "font-size": "48px"
@@ -1883,7 +1883,7 @@
             "showButtons": true,
             "imageSize": "40",
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
@@ -1927,7 +1927,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"page2.html#content2-j\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1937,7 +1937,7 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
@@ -1987,7 +1987,7 @@
             "showButtons": true,
             "imageSize": 50,
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
@@ -2088,7 +2088,7 @@
             "showButtons": true,
             "imageSize": 50,
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
@@ -2160,7 +2160,7 @@
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
