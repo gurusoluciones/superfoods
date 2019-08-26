@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-21_0115",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": ""
@@ -1201,11 +1201,11 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "5",
+            "paddingBottom": "2",
             "bgColor": "#fcf6f1"
           },
-          "text1": "<p>Debido a su poder antioxidante también&nbsp;<span style=\"font-size: 1rem;\">se ha estudiado su influencia en el estrés&nbsp;</span><span style=\"font-size: 1rem;\">oxidativo. El camu camu aporta al organismo&nbsp;</span><span style=\"font-size: 1rem;\">CAMU CAMU</span></p><p><span style=\"font-size: 1rem;\">varias clases de aminoácidos, como serina,&nbsp;</span><span style=\"font-size: 1rem;\">valina y leucina, además de otros nutrientes,&nbsp;</span><span style=\"font-size: 1rem;\">como: sodio, potasio, calcio, zinc, magnesio,&nbsp;</span><span style=\"font-size: 1rem;\">manganeso o cobre.</span></p><p>Esta fruta contiene un alto índice de vitamina&nbsp;<span style=\"font-size: 1rem;\">C: posee 10 veces más que la naranja y 40&nbsp;</span><span style=\"font-size: 1rem;\">veces más que el limón (medida basada&nbsp;</span><span style=\"font-size: 1rem;\">en 100 gramos de cada fruta). La vitamina&nbsp;</span><span style=\"font-size: 1rem;\">C contenida en este fruto contribuye a la</span></p><p><span style=\"font-size: 1rem;\">formación de huesos, dientes, piel, cartílagos,&nbsp;</span><span style=\"font-size: 1rem;\">ligamentos, y colágeno, proteína que&nbsp;</span><span style=\"font-size: 1rem;\">incide en el desarrollo de tendones y vasos&nbsp;</span><span style=\"font-size: 1rem;\">sanguíneos.</span></p><p><span style=\"font-size: 1rem;\">Esta fruta contiene un alto índice de vitamina C: posee 10 veces más que la naranja y 40 veces más que el limón (medida basada en 100 gramos de cada fruta).</span></p>",
-          "text2": "<p><span style=\"font-size: 1rem;\">La vitamina&nbsp;</span><span style=\"font-size: 1rem;\">C contenida en este fruto contribuye a la&nbsp;</span><span style=\"font-size: 1rem;\">formación de huesos, dientes, piel, cartílagos,&nbsp;</span><span style=\"font-size: 1rem;\">ligamentos, y colágeno, proteína que&nbsp;</span><span style=\"font-size: 1rem;\">incide en el desarrollo de tendones y vasos&nbsp;</span><span style=\"font-size: 1rem;\">sanguíneos.</span></p><p>Por otro lado, se ha investigado sobre su&nbsp;<span style=\"font-size: 1rem;\">potencial en la prevención de enfermedades&nbsp;</span><span style=\"font-size: 1rem;\">relacionadas con el sistema inmunológico en un&nbsp;</span></p><p>estudio que sugirió que el extracto de semilla es&nbsp;<span style=\"font-size: 1rem;\">una fuente de ácido betulínico.&nbsp;</span><span style=\"font-size: 1rem;\">El camu camu es consumido en varias&nbsp;</span><span style=\"font-size: 1rem;\">presentaciones, como en harina, en pulpa,&nbsp;</span><span style=\"font-size: 1rem;\">en cápsulas, en néctar; y sirve para elaborar</span></p><p>productos como licores, mermelada, yogur,&nbsp;<span style=\"font-size: 1rem;\">confitería, helados, etc. En 2017, los principales&nbsp;</span><span style=\"font-size: 1rem;\">mercados que importaron esta fruta fueron</span></p><p>Estados Unidos (51%), Japón (10%) y Reino&nbsp;<span style=\"font-size: 1rem;\">Unido (6%).</span></p>",
+          "text1": "<p>Debido a su poder antioxidante también&nbsp;<span style=\"font-size: 1rem;\">se ha estudiado su influencia en el estrés&nbsp;</span><span style=\"font-size: 1rem;\">oxidativo. El camu camu aporta al organismo&nbsp;</span><span style=\"font-size: 1rem;\">varias clases de aminoácidos, como serina,&nbsp;</span><span style=\"font-size: 1rem;\">valina y leucina, además de otros nutrientes,&nbsp;</span><span style=\"font-size: 1rem;\">como: sodio, potasio, calcio, zinc, magnesio,&nbsp;</span><span style=\"font-size: 1rem;\">manganeso o cobre.</span></p><p>Esta fruta contiene un alto índice de vitamina&nbsp;<span style=\"font-size: 1rem;\">C: posee 10 veces más que la naranja y 40&nbsp;</span><span style=\"font-size: 1rem;\">veces más que el limón (medida basada&nbsp;</span><span style=\"font-size: 1rem;\">en 100 gramos de cada fruta).&nbsp;</span></p>",
+          "text2": "<p><span style=\"font-size: 1rem;\">La vitamina C contenida en este fruto contribuye a la\n</span></p><p><span style=\"font-size: 1rem;\">formación de huesos, dientes, piel, cartílagos, ligamentos, y colágeno, proteína que incide en el desarrollo de tendones y vasos sanguíneos.\n</span></p><p><span style=\"font-size: 1rem;\">Esta fruta contiene un alto índice de vitamina C: posee 10 veces más que la naranja y 40 veces más que el limón (medida basada en 100 gramos de cada fruta).</span></p><p><span style=\"font-size: 1rem;\">&nbsp;En 2017, los principales&nbsp;</span><span style=\"font-size: 1rem;\">mercados que importaron esta fruta fueron</span><br></p><p>Estados Unidos (51%), Japón (10%) y Reino&nbsp;<span style=\"font-size: 1rem;\">Unido (6%).</span></p>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1217,6 +1217,20 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<b>BENEFICIO PARA LA SALUD:</b> Contiene cantidades relevantes  de vitamina A y potasio\n<div><b>FORMAS DE CONSUMO:</b> El camu camu es consumido en varias presentaciones, como en harina, en pulpa, en cápsulas, en néctar; y sirve para elaborar\n&nbsp;<span style=\"font-size: 1rem;\">productos como licores, mermelada, yogur, confitería, helados, etc.</span></div><div><b>DISPONIBILIDAD ESTACIONARIA:</b> Febrero y junio\n</div><div><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</div>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-t"
         },
         {
           "_styles": {
@@ -1293,7 +1307,7 @@
           "_anchor": "content2-r",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "color": "#34495e",
               "font-size": "17px"
             }
           }
@@ -1732,8 +1746,8 @@
           },
           "title": "HORTALIZAS",
           "subtitle": "SUPERFOODS PERU",
-          "text": "Las Hortalizas se cultivan todo el año, Esta disponibilidad contribuye a su colocación en el mercado nacional y facilita su venta en mercados extranjeros.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html#content3-c\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "text": "Las Hortalizas se cultivan todo el año, Esta disponibilidad contribuye a su colocación en el mercado nacional y facilita su venta en mercados extranjeros.<br>El Perú produce hortalizas que cumplen con las más altas exigencias de calidad en cuanto a sabor, color, aroma y consistencia. Entre las hortalizas destacan los espárragos verdes y blancos, procesados bajo estrictos estándares de calidad, al igual que alcachofas en conserva, pimientos y páprika.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -1761,15 +1775,15 @@
             "overlayOpacity": 0.5
           },
           "title": "Conoce más acerca de ellas",
-          "subtitle": "El Perú produce hortalizas que cumplen con las más altas exigencias de calidad en cuanto a sabor, color, aroma y consistencia. Entre las hortalizas destacan los espárragos verdes y blancos, procesados bajo estrictos estándares de calidad, al igual que alcachofas en conserva, pimientos y páprika.<br><br>La mayoría de las hortalizas contienen\n gran cantidad de vitaminas y minerales, y pertenecen al grupo de alimentos reguladores en la pirámide de los alimentos. <br>La vitamina A está presente en gran parte de las hortalizas en forma de provitamina. Todas estas propiedades hacen que sea recomendable consumirlas con frecuencia al día.",
+          "subtitle": "La mayoría de las hortalizas contienen\n gran cantidad de vitaminas y minerales, y pertenecen al grupo de alimentos reguladores en la pirámide de los alimentos. <br>La vitamina A está presente en gran parte de las hortalizas en forma de provitamina. Todas estas propiedades hacen que sea recomendable consumirlas con frecuencia al día.",
           "person1": "Ají",
           "person2": "Alcachofas",
           "person3": "Aceituna",
           "person4": "Espárragos",
-          "subtitle1": "CAPSICUM",
-          "subtitle2": "DESIGNER",
-          "subtitle3": "DESIGNER",
-          "subtitle4": "PHOTOGRAPHER",
+          "subtitle1": "<b>Capsicum spp.</b>",
+          "subtitle2": "<b>Cynara scolymus</b>",
+          "subtitle3": "<b>Olea europea L.</b>",
+          "subtitle4": "<b>Asparagus officinalis</b>",
           "caption1": "",
           "caption2": "",
           "caption3": "",
