@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-21_0115",
-    "currentPage": "page2.html",
+    "currentPage": "frutas.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -123,7 +123,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"frutas.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -887,720 +887,7 @@
           "text34": "",
           "text35": "",
           "followtext": "follow us",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-11"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "Frutas",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#2c3e50",
-            "fontSize": "0.8",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADING PROMER</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-b"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "color": "#ffffff"
-            },
-            ".mbr-section-text": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-weight": "bold",
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#4eac2b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/frutas-1536x2048.jpeg",
-              "class": "",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title": "FRUTAS",
-          "subtitle": "SUPERFOODS PERÚ",
-          "text": "ESTADOS UNIDOS,\nHOLANDA Y\nREINO UNIDO\nFIGURARON, EN\nESE ORDEN, COMO\nLOS PRINCIPALES&nbsp;CONSUMIDORES DE FRUTAS FRESCAS\nPERUANAS,\nCON COMPRAS\nEQUIVALENTES\nA 1546 MILLONES\nDE DÓLARES.\n<br>LOS TRES PAÍSES\nCONCENTRARON\nEL 69,9% DEL TOTAL\nEXPORTADO,\nA TRAVÉS DE\nLA COMPRA DE\nUVAS, BANANAS,\nMANGOS, PALTAS Y\nMANDARINAS.<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#progress-bar7-i\" data-toolbar=\"-mbrBtnMove\">leer más</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header7",
-          "_anchor": "header7-e"
-        },
-        {
-          "_params": {
-            "progress1": "63",
-            "progress2": "69",
-            "progress3": "51",
-            "progress4": 60,
-            "progress5": 70,
-            "progress6": 80,
-            "showTitles": true,
-            "showTexts": true,
-            "progressColor": "@primaryColor",
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "columns": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f3f0f0",
-            "overlayOpacity": 0.7
-          },
-          "title1": "COMPOSICIÓN",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "El 80% de la composición de las frutas es agua",
-          "title2": "SON NATIVAS",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "En el Perú\nexisten más de\n600 especies de\n<br>frutas\n553 son nativas",
-          "title3": "de participación\r del total&nbsp;<div>exportado.</div>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "En 2017, Estados\nUnidos fue el principal\nconsumidor<br>de nuestras\nfrutas frescas, con&nbsp;compras por\n783\nMILLONES",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "progress-bar7",
-          "_anchor": "progress-bar7-i",
-          "_styles": {
-            "path[stroke]": {
-              "stroke": "@primaryColor !important"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<b>Hoy frutas como el camu camu, aguaymanto, arándano, chirimoya, granada, granadilla, guanábana, lúcuma, mandarina, uva, mango y palta ingresan a los Mercados internacionales con la fuerza de los Superfoods Peru.</b>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-b",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
-            },
-            "B": {
-              "color": "#34495e"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitles": true,
-            "ShowTexts": true,
-            "showImages": true,
-            "showImgTitles": true,
-            "showBgText": true,
-            "bgText": "Camu ",
-            "showButtons": true,
-            "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c0392b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.6
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/biodiversidad-403x629.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "Camu camu",
-          "title2": "About us",
-          "title3": "Camu camu",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "ES UNA ESPECIE NATIVA DE\nLA SELVA PERUANA que crece en las riberas\nde los ríos y en los terrenos inundables de la\nAmazonía. Sus frutos son pequeños, de color\nrojo (o verde) y de sabor muy ácido. El tamaño\nde este diminuto fruto contrasta con los\ninnumerables beneficios que brinda. Aparte\nde ser uno de los frutos nativos que posee\nmás cantidad de ácido ascórbico (vitamina C),\nposee diferentes compuestos bioactivos que\nsegún estudios podrían ser utilizados para\nretardar o prevenir diversas enfermedades\ncardiovasculares y el cáncer.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "features10",
-          "_anchor": "features10-m"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fcf6f1"
-          },
-          "text1": "<p>Debido a su poder antioxidante también&nbsp;<span style=\"font-size: 1rem;\">se ha estudiado su influencia en el estrés&nbsp;</span><span style=\"font-size: 1rem;\">oxidativo. El camu camu aporta al organismo&nbsp;</span><span style=\"font-size: 1rem;\">varias clases de aminoácidos, como serina,&nbsp;</span><span style=\"font-size: 1rem;\">valina y leucina, además de otros nutrientes,&nbsp;</span><span style=\"font-size: 1rem;\">como: sodio, potasio, calcio, zinc, magnesio,&nbsp;</span><span style=\"font-size: 1rem;\">manganeso o cobre.</span></p><p>Esta fruta contiene un alto índice de vitamina&nbsp;<span style=\"font-size: 1rem;\">C: posee 10 veces más que la naranja y 40&nbsp;</span><span style=\"font-size: 1rem;\">veces más que el limón (medida basada&nbsp;</span><span style=\"font-size: 1rem;\">en 100 gramos de cada fruta).&nbsp;</span></p>",
-          "text2": "<p><span style=\"font-size: 1rem;\">La vitamina C contenida en este fruto contribuye a la\n</span></p><p><span style=\"font-size: 1rem;\">formación de huesos, dientes, piel, cartílagos, ligamentos, y colágeno, proteína que incide en el desarrollo de tendones y vasos sanguíneos.\n</span></p><p><span style=\"font-size: 1rem;\">Esta fruta contiene un alto índice de vitamina C: posee 10 veces más que la naranja y 40 veces más que el limón (medida basada en 100 gramos de cada fruta).</span></p><p><span style=\"font-size: 1rem;\">&nbsp;En 2017, los principales&nbsp;</span><span style=\"font-size: 1rem;\">mercados que importaron esta fruta fueron</span><br></p><p>Estados Unidos (51%), Japón (10%) y Reino&nbsp;<span style=\"font-size: 1rem;\">Unido (6%).</span></p>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-o",
-          "_styles": {
-            "DIV": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><b style=\"color: rgb(0, 0, 0); font-size: 1rem;\">BENEFICIO PARA LA SALUD: </b><span style=\"color: rgb(0, 0, 0); font-size: 1rem;\">Contiene cantidades relevantes de vitamina A y potasio.\n</span></p><p><b style=\"color: rgb(0, 0, 0); font-size: 1rem;\">FORMAS DE CONSUMO:</b><span style=\"color: rgb(0, 0, 0); font-size: 1rem;\"> El camu camu es consumido en varias presentaciones, como en harina, en pulpa, en cápsulas, en néctar; y sirve para elaborar\n&nbsp;</span><span style=\"color: rgb(0, 0, 0); font-size: 1rem;\">productos como licores, mermelada, yogur, confitería, helados, etc.</span><br></p><div><b style=\"font-size: 1rem;\">DISPONIBILIDAD ESTACIONARIA:</b><span style=\"font-size: 1rem;\"> Febrero y junio</span><br></div><div><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</div><p></p>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-t",
-          "_styles": {
-            "B": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitles": true,
-            "ShowTexts": true,
-            "showImages": true,
-            "showImgTitles": true,
-            "showBgText": true,
-            "bgText": "Goldenberries",
-            "showButtons": true,
-            "imageSize": "45",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#e67e22",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.6
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/aguaymanto-600x600.jpeg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "Aguaymanto",
-          "title2": "About us",
-          "title3": "Aguaymanto",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "ES CONSIDERADO UNO DE LOS\nCINCO MEJORES ALIMENTOS\nPRODUCIDOS EN EL PERÚ QUE\nBENEFICIAN A LA SALUD.\nPuede fortalecer el sistema\ninmunológico debido a que\ncontiene antioxidantes, vitaminas\nA y C, fósforo y potasio. Los\nantioxidantes ayudan a retardar el\nenvejecimiento celular y mejoran\nel desempeño de las funciones\ncardiovasculares. Existen estudios\nque confieren al aguaymanto\npropiedades de reducción de\ncolesterol en pacientes con\nhipercolesterolemia.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "features10",
-          "_anchor": "features10-q"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "5",
-            "bgColor": "#faede1"
-          },
-          "text": "<p><b>BENEFICIO PARA LA SALUD:&nbsp;</b><span style=\"font-size: 1rem;\">Contiene cantidades relevantes\n&nbsp;</span><span style=\"font-size: 1rem;\">de vitamina A y potasio</span></p><p><span style=\"font-size: 1rem;\"><b>FORMAS DE CONSUMO:</b> Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas</span></p><p><span style=\"font-size: 1rem;\"><b>DISPONIBILIDAD ESTACIONARIA:</b> Febrero y junio</span></p><p><span style=\"font-size: 1rem;\"><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</span></p>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-r",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-size": "17px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitles": true,
-            "ShowTexts": true,
-            "showImages": true,
-            "showImgTitles": true,
-            "showBgText": true,
-            "bgText": "Arándanos",
-            "showButtons": true,
-            "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#610687",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.6
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/arndanos-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "Arándanos",
-          "title2": "About us",
-          "title3": "Arándano",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "ENTRE 2016 Y 2017, SE DUPLICÓ LA COSECHA\n<br>(DE 20 000 A 40 000 TONELADAS) Y LA TENDENCIA\nSIGUE EN AUMENTO. ACTUALMENTE SOMOS\nEL SEGUNDO EXPORTADOR A NIVEL MUNDIAL.\n<br>Durante los últimos cinco años, el Perú desplazó a otros\npaíses exportadores de arándanos al crecer en 1355% su\nparticipación en el mercado de Estados Unidos.El arándano\nposee abundantes pigmentos naturales (antocianos\ny carotenoides) de acción antioxidante. Contiene\nbioflavonoides y vitamina A, que pueden contribuir a\nmejorar la visión nocturna, al prevenir ciertas alteraciones\nvisuales. También un estudio realizado usando polvo de\narándano liofilizado en mujeres posmenopáusicas indicó\nque podía reducir la presión arterial debido, en parte, a la\nproducción de óxido nítrico.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "features10",
-          "_anchor": "features10-s"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "5",
-            "bgColor": "#ffffff"
-          },
-          "text": "<div><b>BENEFICIO PARA LA SALUD: </b>Contiene cantidades relevantes  de vitamina A y potasio</div><div><b>FORMAS DE CONSUMO:</b> Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas\n</div><div><b>DISPONIBILIDAD ESTACIONARIA: </b>Febrero y junio\n</div><div><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</div>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-u",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-size": "17px"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitles": true,
-            "ShowTexts": true,
-            "showImages": true,
-            "showImgTitles": true,
-            "showBgText": true,
-            "bgText": "Guanábana",
-            "showButtons": true,
-            "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#16a085",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.6
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/guanabana-600x903.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "Guanábana",
-          "title2": "About us",
-          "title3": "Guanábana",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "LA GUANÁBANA ES RICA EN VITAMINAS C, B1 Y B2, Y\nEN MINERALES (magnesio, potasio, fósforo y hierro) que\nfortalecen el organismo. Sus hojas, semillas, raíz y fruta\nson usadas tradicionalmente para diversos beneficios en\nla salud y existen estudios sobre el potencial que tiene\nsobre la hipertensión, inflamaciones, sus propiedades\nhepatoprotectoras, etc. También posee un alto contenido\nde fibras, que contribuyen a un correcto funcionamiento\ndel tránsito intestinal, mientras que la tiamina (vitamina\nB1) ayuda a las células del organismo a\nconvertir carbohidratos en energía\ny juega un papel en la contracción&nbsp;muscular y la conducción de las\nseñales nerviosas. Por su parte, la\nvitamina B2 es importante para\nel crecimiento y la producción de\n<br>glóbulos rojos.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">PEDIDOS&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "features10",
-          "_anchor": "features10-v"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<div><b>BENEFICIO PARA LA SALUD: </b>Contiene cantidades relevantes  de vitamina A y potasio</div><div><b>FORMAS DE CONSUMO:</b> Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas\n</div><div><b>DISPONIBILIDAD ESTACIONARIA: </b>Febrero y junio\n</div><div><b>NOMBRE CIENTÍFICO: </b>Physalis peruviana</div>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-12"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".form-control-label": {}
-          },
-          "_params": {
-            "showSubtitle": false,
-            "showTitle": true,
-            "showText": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.5
-          },
-          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
-          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
-          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "title": "REALIZA TU PEDIDO",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "text": "Envíanos tus datos y en lo más breve nos pondremos en contacto contigo",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "form": {
-            "action": "mguevararojas@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-13"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showTitles": false,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title1": "product",
-          "text11": "<a href=\"page1.html#header7-e\">Frutas</a>",
-          "text12": "Granos",
-          "text13": "",
-          "text14": "",
-          "text15": "",
-          "title2": "company",
-          "text21": "<a href=\"page2.html#header7-19\">Hortalizas</a>",
-          "text22": "Hierbas",
-          "text23": "",
-          "text24": "",
-          "text25": "",
-          "title3": "Learn more",
-          "text31": "<a href=\"page3.html#header7-1a\">Tubérculos</a>",
-          "text32": "Cacao",
-          "text33": "",
-          "text34": "",
-          "text35": "",
-          "followtext": "follow us",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
+          "text": "Copyright 2019&nbsp;<a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -1691,7 +978,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"frutas.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1964,7 +1251,7 @@
             "paddingBottom": 1,
             "bgColor": "#ecf0f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2068,7 +1355,7 @@
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2169,7 +1456,7 @@
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2270,7 +1557,7 @@
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#form1-1d\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"page2.html#team2-d\" data-toolbar=\"-mbrBtnMove\">REGRESAR</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -2306,7 +1593,7 @@
           "title": "HAZ TU PEDIDO",
           "subtitle": "Estaremos gustosos de atenderte",
           "text": "Envíanos tus datos y nos pondremos en contacto en seguida contigo",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR PEDIDO</a>",
           "form": {
             "action": "mguevararojas@gmail.com",
             "alerts": {
@@ -2399,7 +1686,7 @@
           "text34": "",
           "text35": "",
           "followtext": "follow us",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
+          "text": "Copyright 2019&nbsp;<a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -2490,7 +1777,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"frutas.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2690,7 +1977,7 @@
           "text34": "",
           "text35": "",
           "followtext": "follow us",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
+          "text": "Copyright 2019&nbsp;<a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -2781,7 +2068,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"frutas.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2977,7 +2264,7 @@
           "text34": "",
           "text35": "",
           "followtext": "follow us",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
+          "text": "Copyright 2019&nbsp;<a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -2985,6 +2272,719 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-15"
+        }
+      ]
+    },
+    "frutas.html": {
+      "settings": {
+        "title": "Frutas",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-0\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-3\">PORQUÉ TRADING PROMER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS ALIMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"frutas.html#header7-e\">Frutas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header7-19\">Hortalizas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header7-1a\" aria-expanded=\"false\">Tubérculos y Raíces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Granos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Hierbas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-0\">Cacao</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTÁCTANOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wa.me/+51943832979\">WhatsApp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skype:+51-943832979?call\">Skype</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#intro1-17\">e-mail</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRADING PROMER</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-weight": "bold",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4eac2b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/frutas-1536x2048.jpeg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "FRUTAS",
+          "subtitle": "SUPERFOODS PERÚ",
+          "text": "ESTADOS UNIDOS,\nHOLANDA Y\nREINO UNIDO\nFIGURARON, EN\nESE ORDEN, COMO\nLOS PRINCIPALES&nbsp;CONSUMIDORES DE FRUTAS FRESCAS\nPERUANAS,\nCON COMPRAS\nEQUIVALENTES\nA 1546 MILLONES\nDE DÓLARES.\n<br>LOS TRES PAÍSES\nCONCENTRARON\nEL 69,9% DEL TOTAL\nEXPORTADO,\nA TRAVÉS DE\nLA COMPRA DE\nUVAS, BANANAS,\nMANGOS, PALTAS Y\nMANDARINAS.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#progress-bar7-i\" data-toolbar=\"-mbrBtnMove\">leer más</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-e"
+        },
+        {
+          "_params": {
+            "progress1": "80",
+            "progress2": "95",
+            "progress3": "35",
+            "progress4": 60,
+            "progress5": 70,
+            "progress6": 80,
+            "showTitles": true,
+            "showTexts": true,
+            "progressColor": "@primaryColor",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f3f0f0",
+            "overlayOpacity": 0.7
+          },
+          "title1": "COMPOSICIÓN",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "El 80% de la composición de las frutas es agua",
+          "title2": "SON NATIVAS",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "En el Perú\nexisten más de\n600 especies de\n<br>frutas, 553 de ellas son nativas",
+          "title3": "de participación\r del total&nbsp;<div>exportado.</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "En el 2017, Estados\nUnidos fue el principal\nconsumidor<br>de nuestras\nfrutas frescas, con&nbsp;compras por $783\nMILLONES",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "progress-bar7",
+          "_anchor": "progress-bar7-i",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "@primaryColor !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<b>Hoy frutas como el camu camu, aguaymanto, arándano, chirimoya, granada, granadilla, guanábana, lúcuma, mandarina, uva, mango y palta ingresan a los Mercados internacionales con la fuerza de los Superfoods Peru.</b>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-b",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "B": {
+              "color": "#34495e"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "Camu ",
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0392b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biodiversidad-403x629.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Camu camu",
+          "title2": "About us",
+          "title3": "Camu camu",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ES UNA ESPECIE NATIVA DE\nLA SELVA PERUANA que crece en las riberas\nde los ríos y en los terrenos inundables de la\nAmazonía. Sus frutos son pequeños, de color\nrojo (o verde) y de sabor muy ácido. El tamaño\nde este diminuto fruto contrasta con los\ninnumerables beneficios que brinda. Aparte\nde ser uno de los frutos nativos que posee\nmás cantidad de ácido ascórbico (vitamina C),\nposee diferentes compuestos bioactivos que\nsegún estudios podrían ser utilizados para\nretardar o prevenir diversas enfermedades\ncardiovasculares y el cáncer.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-m"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fcf6f1"
+          },
+          "text1": "<p>Debido a su poder antioxidante también&nbsp;<span style=\"font-size: 1rem;\">se ha estudiado su influencia en el estrés&nbsp;</span><span style=\"font-size: 1rem;\">oxidativo. El camu camu aporta al organismo&nbsp;</span><span style=\"font-size: 1rem;\">varias clases de aminoácidos, como serina,&nbsp;</span><span style=\"font-size: 1rem;\">valina y leucina, además de otros nutrientes,&nbsp;</span><span style=\"font-size: 1rem;\">como: sodio, potasio, calcio, zinc, magnesio,&nbsp;</span><span style=\"font-size: 1rem;\">manganeso o cobre.</span></p><p>Esta fruta contiene un alto índice de vitamina&nbsp;<span style=\"font-size: 1rem;\">C: posee 10 veces más que la naranja y 40&nbsp;</span><span style=\"font-size: 1rem;\">veces más que el limón (medida basada&nbsp;</span><span style=\"font-size: 1rem;\">en 100 gramos de cada fruta).&nbsp;</span></p>",
+          "text2": "<p><span style=\"font-size: 1rem;\">La vitamina C contenida en este fruto contribuye a la\n</span></p><p><span style=\"font-size: 1rem;\">formación de huesos, dientes, piel, cartílagos, ligamentos, y colágeno, proteína que incide en el desarrollo de tendones y vasos sanguíneos.\n</span></p><p><span style=\"font-size: 1rem;\">Esta fruta contiene un alto índice de vitamina C: posee 10 veces más que la naranja y 40 veces más que el limón (medida basada en 100 gramos de cada fruta).</span></p><p><span style=\"font-size: 1rem;\">&nbsp;En 2017, los principales&nbsp;</span><span style=\"font-size: 1rem;\">mercados que importaron esta fruta fueron</span><br></p><p>Estados Unidos (51%), Japón (10%) y Reino&nbsp;<span style=\"font-size: 1rem;\">Unido (6%).</span></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-o",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><b style=\"color: rgb(0, 0, 0); font-size: 1rem;\">BENEFICIO PARA LA SALUD: </b><span style=\"color: rgb(0, 0, 0); font-size: 1rem;\">Contiene cantidades relevantes de vitamina A y potasio.\n</span></p><p><b style=\"color: rgb(0, 0, 0); font-size: 1rem;\">FORMAS DE CONSUMO:</b><span style=\"color: rgb(0, 0, 0); font-size: 1rem;\"> El camu camu es consumido en varias presentaciones, como en harina, en pulpa, en cápsulas, en néctar; y sirve para elaborar\n&nbsp;</span><span style=\"color: rgb(0, 0, 0); font-size: 1rem;\">productos como licores, mermelada, yogur, confitería, helados, etc.</span><br></p><div><b style=\"font-size: 1rem;\">DISPONIBILIDAD ESTACIONARIA:</b><span style=\"font-size: 1rem;\"> Febrero y junio</span><br></div><div><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</div><p></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-t",
+          "_styles": {
+            "B": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "Goldenberries",
+            "showButtons": true,
+            "imageSize": "45",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e67e22",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aguaymanto-600x600.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Aguaymanto",
+          "title2": "About us",
+          "title3": "Aguaymanto",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ES CONSIDERADO UNO DE LOS\nCINCO MEJORES ALIMENTOS\nPRODUCIDOS EN EL PERÚ QUE\nBENEFICIAN A LA SALUD.\nPuede fortalecer el sistema\ninmunológico debido a que\ncontiene antioxidantes, vitaminas\nA y C, fósforo y potasio. Los\nantioxidantes ayudan a retardar el\nenvejecimiento celular y mejoran\nel desempeño de las funciones\ncardiovasculares. Existen estudios\nque confieren al aguaymanto\npropiedades de reducción de\ncolesterol en pacientes con\nhipercolesterolemia.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#faede1"
+          },
+          "text": "<p><b>BENEFICIO PARA LA SALUD:&nbsp;</b><span style=\"font-size: 1rem;\">Contiene cantidades relevantes\n&nbsp;</span><span style=\"font-size: 1rem;\">de vitamina A y potasio</span></p><p><span style=\"font-size: 1rem;\"><b>FORMAS DE CONSUMO:</b> Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas</span></p><p><span style=\"font-size: 1rem;\"><b>DISPONIBILIDAD ESTACIONARIA:</b> Febrero y junio</span></p><p><span style=\"font-size: 1rem;\"><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</span></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-r",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "17px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "Arándanos",
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#610687",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/arndanos-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Arándanos",
+          "title2": "About us",
+          "title3": "Arándano",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "ENTRE 2016 Y 2017, SE DUPLICÓ LA COSECHA\n<br>(DE 20 000 A 40 000 TONELADAS) Y LA TENDENCIA\nSIGUE EN AUMENTO. ACTUALMENTE SOMOS\nEL SEGUNDO EXPORTADOR A NIVEL MUNDIAL.\n<br>Durante los últimos cinco años, el Perú desplazó a otros\npaíses exportadores de arándanos al crecer en 1355% su\nparticipación en el mercado de Estados Unidos.El arándano\nposee abundantes pigmentos naturales (antocianos\ny carotenoides) de acción antioxidante. Contiene\nbioflavonoides y vitamina A, que pueden contribuir a\nmejorar la visión nocturna, al prevenir ciertas alteraciones\nvisuales. También un estudio realizado usando polvo de\narándano liofilizado en mujeres posmenopáusicas indicó\nque podía reducir la presión arterial debido, en parte, a la\nproducción de óxido nítrico.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#ffffff"
+          },
+          "text": "<div><b>BENEFICIO PARA LA SALUD: </b>Contiene cantidades relevantes  de vitamina A y potasio</div><div><b>FORMAS DE CONSUMO:</b> Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas\n</div><div><b>DISPONIBILIDAD ESTACIONARIA: </b>Febrero y junio\n</div><div><b>NOMBRE CIENTÍFICO:</b> Physalis peruviana</div>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-u",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "ShowTexts": true,
+            "showImages": true,
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "Guanábana",
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#16a085",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/guanabana-600x903.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Guanábana",
+          "title2": "About us",
+          "title3": "Guanábana",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "LA GUANÁBANA ES RICA EN VITAMINAS C, B1 Y B2, Y\nEN MINERALES (magnesio, potasio, fósforo y hierro) que\nfortalecen el organismo. Sus hojas, semillas, raíz y fruta\nson usadas tradicionalmente para diversos beneficios en\nla salud y existen estudios sobre el potencial que tiene\nsobre la hipertensión, inflamaciones, sus propiedades\nhepatoprotectoras, etc. También posee un alto contenido\nde fibras, que contribuyen a un correcto funcionamiento\ndel tránsito intestinal, mientras que la tiamina (vitamina\nB1) ayuda a las células del organismo a\nconvertir carbohidratos en energía\ny juega un papel en la contracción&nbsp;muscular y la conducción de las\nseñales nerviosas. Por su parte, la\nvitamina B2 es importante para\nel crecimiento y la producción de\n<br>glóbulos rojos.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"page1.html#form1-13\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<div><b>BENEFICIO PARA LA SALUD: </b>Contiene cantidades relevantes  de vitamina A y potasio</div><div><b>FORMAS DE CONSUMO:</b> Mermelada, pulpa congelada, néctar, cereales, snacks, chocolates, barras energéticas\n</div><div><b>DISPONIBILIDAD ESTACIONARIA: </b>Febrero y junio\n</div><div><b>NOMBRE CIENTÍFICO: </b>Physalis peruviana</div>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-12"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "REALIZA TU PEDIDO",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Envíanos tus datos y en lo más breve nos pondremos en contacto contigo",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR PEDIDO</a>",
+          "form": {
+            "action": "mguevararojas@gmail.com",
+            "alerts": {
+              "success": "Gracias, en breve nos ponemos en contacto contigo!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre y Apellidos*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Detalle del pedido"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-13"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "<a href=\"page1.html#header7-e\">Frutas</a>",
+          "text12": "Granos",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "company",
+          "text21": "<a href=\"page2.html#header7-19\">Hortalizas</a>",
+          "text22": "Hierbas",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "Learn more",
+          "text31": "<a href=\"page3.html#header7-1a\">Tubérculos</a>",
+          "text32": "Cacao",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "text": "Copyright 2019&nbsp;<a href=\"https://mobirise.com\">Senda Alterna SAC</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11"
         }
       ]
     }
